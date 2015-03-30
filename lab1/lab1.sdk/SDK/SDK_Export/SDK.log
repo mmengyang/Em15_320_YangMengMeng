@@ -1,0 +1,27 @@
+15:38:20.302 INFO  - Processing command line option -hwspec E:/xilinx/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+16:33:50.044 INFO  - Processing command line option -hwspec E:/xilinx/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+16:34:01.178 INFO  - The hardware specification for project 'hw_platform_0' is different from E:/xilinx/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+16:34:01.544 INFO  - Project hw_platform_0's source hardware specification located at E:/xilinx/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+16:38:46.368 ERROR - Unable to save current hardware specification file in a temporary location. 
+16:38:46.386 INFO  - Copied contents of E:/xilinx/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+16:38:46.514 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+16:38:46.519 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+16:38:46.594 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+16:38:46.597 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+16:38:46.608 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+16:38:47.645 INFO  - Copied contents of E:/xilinx/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+16:38:47.814 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+16:38:47.818 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+16:38:47.898 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+16:38:47.900 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+16:38:47.906 INFO  - Copied contents of E:\xilinx\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+16:38:48.358 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+16:40:33.628 INFO  - Updating hardware inferred compiler options for mem_test. 
+16:40:33.645 INFO  - Clearing existing target manager status. 
+16:54:54.572 INFO  - Processor reset is completed for ps7_cortexa9_0 
+16:54:54.866 INFO  - PS initialization will be done as it is not done before. 
+16:54:54.866 INFO  - Running PS initialization.... 
+16:54:55.204 INFO  - ps7_init is completed. 
+16:54:55.304 INFO  - PS Initialization is complete. 
+16:57:06.538 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
